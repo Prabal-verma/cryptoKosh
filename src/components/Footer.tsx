@@ -29,13 +29,6 @@ function Footer() {
                     <X className="w-6 h-6" />
                     Twitter
                 </a>
-                <a 
-                    href="https://instagram.com/prabalverma" 
-                    className="flex items-center gap-2 text-gray-300 hover:text-white transition-colors duration-300"
-                >
-                    <Instagram className="w-6 h-6" />
-                    Instagram
-                </a>
             </div>
         </footer>
     );
